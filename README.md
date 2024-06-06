@@ -13,7 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anneryshc&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anneryshc&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Anneryshc&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anneryshc&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
